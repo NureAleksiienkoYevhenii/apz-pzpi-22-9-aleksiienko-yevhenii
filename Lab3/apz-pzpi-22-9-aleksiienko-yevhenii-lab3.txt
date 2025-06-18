@@ -273,3 +273,6 @@ Extend (опціональні розширення):
 •	Інтуїтивний інтерфейс з сучасним дизайном
 •	Швидкодія завдяки оптимізованій архітектурі
 •	Адаптивність для роботи на мобільних пристроях та десктопі.
+
+Посилання на youtube: https://youtu.be/qTAs-g192I4
+Посилання на Github: https://github.com/NureAleksiienkoYevhenii/apz-pzpi-22-9-aleksiienko-yevhenii
